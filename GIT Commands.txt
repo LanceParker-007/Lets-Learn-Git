@@ -1,0 +1,7 @@
+Git Tutorials Learning:
+
+git init: initialise git repo
+git status: track files
+git log: see all git commits
+git add <file_name>/.(dot): Push your changes to staging area
+
