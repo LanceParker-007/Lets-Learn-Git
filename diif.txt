@@ -1,1 +1,3 @@
 Diff file
+
+Second Line edit in diff file.
